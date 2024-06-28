@@ -1,4 +1,4 @@
-GetOpts is linux getopt like command line arguments parser.
+getopts is getopt on linux like command line arguments parser.
 ---
 Simple command line argumens perser.
 
